@@ -1,0 +1,2 @@
+<h1>Automação para preenchimento de certificado</h1>
+<p>O projeto de automação visa facilitar o processo de emissão de certificados para alunos que tenham concluído um curso específico. Utilizando Python e suas bibliotecas especializadas para manipulação de dados e geração de documentos, o sistema automatiza o preenchimento das informações variáveis nos certificados, que são extraídas de uma tabela em formato Excel contendo os dados dos alunos.</p>
